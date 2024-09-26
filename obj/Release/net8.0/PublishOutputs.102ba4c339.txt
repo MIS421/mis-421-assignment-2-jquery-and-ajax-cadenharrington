@@ -1,0 +1,7 @@
+C:\Users\caden\OneDrive\Desktop\School\11 Fall 2024\MIS 521\FL2024-Assignment2-charrington\obj\Release\net8.0\PubTmp\Out\FL2024-Assignment2-charrington.exe
+C:\Users\caden\OneDrive\Desktop\School\11 Fall 2024\MIS 521\FL2024-Assignment2-charrington\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\caden\OneDrive\Desktop\School\11 Fall 2024\MIS 521\FL2024-Assignment2-charrington\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\caden\OneDrive\Desktop\School\11 Fall 2024\MIS 521\FL2024-Assignment2-charrington\obj\Release\net8.0\PubTmp\Out\FL2024-Assignment2-charrington.dll
+C:\Users\caden\OneDrive\Desktop\School\11 Fall 2024\MIS 521\FL2024-Assignment2-charrington\obj\Release\net8.0\PubTmp\Out\FL2024-Assignment2-charrington.deps.json
+C:\Users\caden\OneDrive\Desktop\School\11 Fall 2024\MIS 521\FL2024-Assignment2-charrington\obj\Release\net8.0\PubTmp\Out\FL2024-Assignment2-charrington.runtimeconfig.json
+C:\Users\caden\OneDrive\Desktop\School\11 Fall 2024\MIS 521\FL2024-Assignment2-charrington\obj\Release\net8.0\PubTmp\Out\FL2024-Assignment2-charrington.pdb

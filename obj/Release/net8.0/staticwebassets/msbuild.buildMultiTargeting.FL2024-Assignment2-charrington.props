@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FL2024-Assignment2-charrington.props" />
+</Project>

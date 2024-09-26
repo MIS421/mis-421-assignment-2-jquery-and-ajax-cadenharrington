@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>Lank</title>
+
+        <link rel="shortcut icon" href="./assets/lank.webp" />
+
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.14.0/themes/smoothness/jquery-ui.css" integrity="sha384-AUxBc4TYOEuk4Hp24650vW1R1zXkuFE8IK5cgdi5qyXRKuc1Xx2ndBiefujL0Qho" crossorigin="anonymous">
+
+        <link rel="stylesheet" href="./css/index.css?v=1.1" />
+
+    </head>
+
+    <body id="body">
+
+        <div id="maincontent">
+            <h1 id="title" onclick="backgroundImageChanger()">Change BDS View</h1>
+
+            <textarea id="query"
+                      class="ui-widget ui-state-default ui-corner-all"
+                      placeholder="Surf the Tide"
+                      maxlength="300"></textarea>
+
+            <br />
+
+            <button class="custom-btn ui-button ui-corner-all ui-widget"
+                    type="button"
+                    id="myBtn"
+                    onclick="QuerySearch()">
+                Search for Naysayers
+            </button>
+
+
+            <button class="ui-button ui-corner-all ui-widget"
+                    type="button"
+                    id="timeBtn"
+                    value="Search"
+                    onclick="updateTimeTextBox()">
+                Current Time
+            </button>
+
+            <button class="ui-button ui-corner-all ui-widget" id="luckyLANK" onclick="findANaysayer()">
+                I'm feeling LANKy
+            </button>
+        </div>
+
+        <div id="searchResults"></div>
+        <div id="time"></div>
+
+        <img id="football" src="./assets/football.png" alt="Football" />
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs" crossorigin="anonymous"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.14.0/jquery-ui.min.js" integrity="sha384-8EM386r8XMMzwGPUxfGNr6c1wIOYnPQBJ6VFxzKCZeklpQarHoZGB40kdNDA3gYr" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="./scripts/index.js"></script>
+
+    </body>
+</html>

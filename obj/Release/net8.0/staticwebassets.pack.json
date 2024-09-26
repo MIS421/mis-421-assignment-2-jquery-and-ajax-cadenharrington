@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment2-charrington\\wwwroot\\assets\\bds.jpg",
+      "PackagePath": "staticwebassets\\assets\\bds.jpg"
+    },
+    {
+      "Id": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment2-charrington\\wwwroot\\assets\\bds2.jpg",
+      "PackagePath": "staticwebassets\\assets\\bds2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment2-charrington\\wwwroot\\assets\\bigal.png",
+      "PackagePath": "staticwebassets\\assets\\bigal.png"
+    },
+    {
+      "Id": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment2-charrington\\wwwroot\\assets\\football.png",
+      "PackagePath": "staticwebassets\\assets\\football.png"
+    },
+    {
+      "Id": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment2-charrington\\wwwroot\\assets\\lank.webp",
+      "PackagePath": "staticwebassets\\assets\\lank.webp"
+    },
+    {
+      "Id": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment2-charrington\\wwwroot\\assets\\saban.png",
+      "PackagePath": "staticwebassets\\assets\\saban.png"
+    },
+    {
+      "Id": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment2-charrington\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment2-charrington\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment2-charrington\\wwwroot\\scripts\\index.js",
+      "PackagePath": "staticwebassets\\scripts\\index.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.FL2024-Assignment2-charrington.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.FL2024-Assignment2-charrington.props",
+      "PackagePath": "build\\FL2024-Assignment2-charrington.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FL2024-Assignment2-charrington.props",
+      "PackagePath": "buildMultiTargeting\\FL2024-Assignment2-charrington.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.FL2024-Assignment2-charrington.props",
+      "PackagePath": "buildTransitive\\FL2024-Assignment2-charrington.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
